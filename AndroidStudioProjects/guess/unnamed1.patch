@@ -1,0 +1,13 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(date 1480592500000)
++++ .gitignore	(date 1481189302000)
+@@ -97,3 +97,5 @@
+ fabric.properties
+ 
+ /.idea/
++.gitignore
++/app/src/main/res/
